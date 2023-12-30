@@ -3,7 +3,6 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.example.deepling",
-      "sha256_cert_fingerprints":
-      ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
+      "sha256_cert_fingerprints": ["34:3B:81:8B:6A:00:AF:4E:4C:38:AB:41:B4:2B:A6:8C:03:6C:F1:52:3D:E3:7A:7C:A5:B0:17:73:35:6B:03:0B"]
     }
   }]
